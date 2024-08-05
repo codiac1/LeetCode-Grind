@@ -10,6 +10,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/codiac1/LeetCode-Grind/tree/master/0053-maximum-subarray) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/codiac1/LeetCode-Grind/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
@@ -18,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/codiac1/LeetCode-Grind/tree/master/0053-maximum-subarray) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/codiac1/LeetCode-Grind/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Hash Table
 |  |
@@ -27,4 +29,8 @@
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/codiac1/LeetCode-Grind/tree/master/2163-kth-distinct-string-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/codiac1/LeetCode-Grind/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
