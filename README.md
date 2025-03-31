@@ -30,6 +30,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/codiac1/LeetCode-Grind/tree/master/0141-linked-list-cycle) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/codiac1/LeetCode-Grind/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/codiac1/LeetCode-Grind/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
@@ -66,4 +67,12 @@
 |  |
 | ------- |
 | [0971-shortest-bridge](https://github.com/codiac1/LeetCode-Grind/tree/master/0971-shortest-bridge) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/codiac1/LeetCode-Grind/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/codiac1/LeetCode-Grind/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
