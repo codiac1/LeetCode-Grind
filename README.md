@@ -62,10 +62,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/codiac1/LeetCode-Grind/tree/master/0112-path-sum) |
 | [0971-shortest-bridge](https://github.com/codiac1/LeetCode-Grind/tree/master/0971-shortest-bridge) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/codiac1/LeetCode-Grind/tree/master/0112-path-sum) |
 | [0971-shortest-bridge](https://github.com/codiac1/LeetCode-Grind/tree/master/0971-shortest-bridge) |
 ## Linked List
 |  |
@@ -75,4 +77,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/codiac1/LeetCode-Grind/tree/master/0141-linked-list-cycle) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/codiac1/LeetCode-Grind/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/codiac1/LeetCode-Grind/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
