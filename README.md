@@ -72,6 +72,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/codiac1/LeetCode-Grind/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/codiac1/LeetCode-Grind/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
