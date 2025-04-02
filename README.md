@@ -31,6 +31,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/codiac1/LeetCode-Grind/tree/master/0084-largest-rectangle-in-histogram) |
 | [0403-frog-jump](https://github.com/codiac1/LeetCode-Grind/tree/master/0403-frog-jump) |
 | [0496-next-greater-element-i](https://github.com/codiac1/LeetCode-Grind/tree/master/0496-next-greater-element-i) |
+| [0907-koko-eating-bananas](https://github.com/codiac1/LeetCode-Grind/tree/master/0907-koko-eating-bananas) |
 | [0971-shortest-bridge](https://github.com/codiac1/LeetCode-Grind/tree/master/0971-shortest-bridge) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/codiac1/LeetCode-Grind/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Hash Table
@@ -98,4 +99,8 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/codiac1/LeetCode-Grind/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/codiac1/LeetCode-Grind/tree/master/0496-next-greater-element-i) |
+## Binary Search
+|  |
+| ------- |
+| [0907-koko-eating-bananas](https://github.com/codiac1/LeetCode-Grind/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
