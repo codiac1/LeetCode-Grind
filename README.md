@@ -29,6 +29,7 @@
 | [0053-maximum-subarray](https://github.com/codiac1/LeetCode-Grind/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/codiac1/LeetCode-Grind/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/codiac1/LeetCode-Grind/tree/master/0084-largest-rectangle-in-histogram) |
+| [0200-number-of-islands](https://github.com/codiac1/LeetCode-Grind/tree/master/0200-number-of-islands) |
 | [0403-frog-jump](https://github.com/codiac1/LeetCode-Grind/tree/master/0403-frog-jump) |
 | [0496-next-greater-element-i](https://github.com/codiac1/LeetCode-Grind/tree/master/0496-next-greater-element-i) |
 | [0907-koko-eating-bananas](https://github.com/codiac1/LeetCode-Grind/tree/master/0907-koko-eating-bananas) |
@@ -66,16 +67,19 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/codiac1/LeetCode-Grind/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/codiac1/LeetCode-Grind/tree/master/0200-number-of-islands) |
 | [0971-shortest-bridge](https://github.com/codiac1/LeetCode-Grind/tree/master/0971-shortest-bridge) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/codiac1/LeetCode-Grind/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/codiac1/LeetCode-Grind/tree/master/0200-number-of-islands) |
 | [0971-shortest-bridge](https://github.com/codiac1/LeetCode-Grind/tree/master/0971-shortest-bridge) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/codiac1/LeetCode-Grind/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/codiac1/LeetCode-Grind/tree/master/0200-number-of-islands) |
 | [0971-shortest-bridge](https://github.com/codiac1/LeetCode-Grind/tree/master/0971-shortest-bridge) |
 ## Linked List
 |  |
@@ -103,4 +107,8 @@
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/codiac1/LeetCode-Grind/tree/master/0907-koko-eating-bananas) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/codiac1/LeetCode-Grind/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
